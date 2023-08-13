@@ -1,1 +1,1 @@
-my project postmortem repo, a blog will be written on this I guess
+The project postmortem article echo The project postmortem article, , read more at https://medium.com/@petersimon0730/postmortem-lessons-learned-from-carto-ecommerce-project-ebf14f7fd743
